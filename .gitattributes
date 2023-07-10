@@ -1,0 +1,2 @@
+src/main/resources/data/*.dbf filter=lfs diff=lfs merge=lfs -text
+src/main/resources/data/*.shp filter=lfs diff=lfs merge=lfs -text
